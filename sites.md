@@ -1,6 +1,8 @@
 
 List of recommended sites:
 
+Note: maybe, move it to gist instead?
+
 International:
 * https://repl.it/
 * http://playcode.io/
@@ -10,6 +12,7 @@ International:
 * https://www.patreon.com/
 * http://freetexthost.com/
 * https://www.protectedtext.com/
+* https://ark.intel.com/ - cpu specifications
 * mynoise&co:
   * https://mynoise.net/
   * https://calmyleon.com/
